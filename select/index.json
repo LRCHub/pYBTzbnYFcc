@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "パラダイム",
+  "base_artist": "eufonius",
+  "createdAt": "2026-03-14T12:58:14.261348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パラダイム・パラドックス",
+      "artist": "Mejibray",
+      "has_synced": true,
+      "path": "select/01_パラダイム・パラドックス_Mejibray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paradigm Paradox;パラダイム・パラドックス",
+      "artist": "MEJIBRAY",
+      "has_synced": true,
+      "path": "select/02_Paradigm_Paradox;パラダイム・パラドックス_MEJIBRAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パラダイム",
+      "artist": "Hommarju feat. YURiE",
+      "has_synced": false,
+      "path": "select/03_パラダイム_Hommarju_feat._YURiE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パラダイム",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/04_パラダイム_eufonius.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パラダイム・リバーシ！",
+      "artist": "Puffy☆Bunny/日々樹 渉(CV.江口 拓也)、葵 ひなた(CV.斉藤 壮馬)、仙石 忍(CV.新田 杏樹)、天城 一彩(CV.梶原 岳人)、影片 みか(CV.大須賀 純)",
+      "has_synced": true,
+      "path": "select/05_パラダイム・リバーシ!_Puffy☆Bunny_日々樹_渉(CV.江口_拓也)、葵_ひなた(CV.斉藤_壮馬)、仙石_忍(CV.新田_杏樹)、天城_一彩(CV.梶原_岳人)、影片_みか.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パラダイム",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/06_パラダイム_eufonius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラダイム",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/pl_01_パラダイム_eufonius.txt"
+    }
+  ]
+}
